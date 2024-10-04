@@ -1,1 +1,1 @@
-# CSM
+This project is an Online Car Showroom Management system designed to streamline the process of managing car listings, customer inquiries, and sales transactions. The application provides an intuitive user interface for both customers and administrators, ensuring a seamless experience for browsing available vehicles and managing showroom operations.
